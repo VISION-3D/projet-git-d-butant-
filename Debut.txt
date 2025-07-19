@@ -1,1 +1,6 @@
 voici le debut de mon premier projet sur git
+Oracle : ✅ C'est un SGBD relationnel (SGBDR).
+
+MySQL : ✅ C'est aussi un SGBD relationnel (SGBDR).
+
+MongoDB : ✅ C'est un SGBD, mais non relationnel, de type NoSQL.

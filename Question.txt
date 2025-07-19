@@ -1,0 +1,3 @@
+👉 Donc, tous les trois (Oracle, MySQL et MongoDB) 
+sont des SGBD (systèmes de gestion de base de données),
+ même s’ils appartiennent à des catégories différentes 
